@@ -406,3 +406,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `afc1d69`
 
+
+## Round 46 — sub-router-planner
+
+**Gap:** Two novel planners without selection rule
+
+**Addition:** Expanded non-triggers + planner selection docs synced to script
+
+**Commit:** `9681838`
+

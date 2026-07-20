@@ -52,3 +52,6 @@ Chat self-grade is not evidence.
 /assisted-novel-forge assisted: lighthouse door literary novel, 10 chapters
 /assisted-novel-forge autonomous --chapters 8: floating market heist
 ```
+
+## Pipeline runner
+`python3 scripts/run_pipeline.py --text "..." --root PROJECT [--mode assisted|autonomous]`
