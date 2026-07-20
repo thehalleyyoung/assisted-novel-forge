@@ -15,3 +15,7 @@ Load only the resource needed:
 - `resources/story-planning.md` — author-facing direction and option synthesis.
 - `resources/story-planning.md` — exploratory capture and source tagging.
 - `resources/story-planning.md` — arc, chapter, scene, and beat structure.
+
+## Pack export
+`python3 scripts/export_architecture.py --root PROJECT` writes architecture.md into the handoff pack.
+Note: marketplace id story-architecture maps to story-planning skill body.

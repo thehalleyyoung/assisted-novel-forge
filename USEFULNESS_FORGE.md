@@ -73,3 +73,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `c6dadd0`
 
+
+## Round 9 — buff-craft-nont
+
+**Gap:** Over-trigger risk on non-fiction marketing
+
+**Addition:** Non-triggers + pack_io reference
+
+**Commit:** `8432bc3`
+
