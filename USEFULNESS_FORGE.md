@@ -397,3 +397,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `113de87`
 
+
+## Round 45 — sub-router-modes
+
+**Gap:** Autonomous vs assisted unclear
+
+**Addition:** modes.md + Use example
+
+**Commit:** `afc1d69`
+

@@ -8,6 +8,7 @@ NON_TRIGGERS = [
     (r"user stor(y|ies)|acceptance criteria|sprint backlog", "Agile user stories — not fiction"),
     (r"scientific manuscript|nature paper|arxiv", "Scientific manuscript — use sciwrite skills"),
     (r"seo blog|keyword density", "Marketing SEO — out of scope for novel forge"),
+    (r"tweet thread|linkedin post only", "Social posts — not novel forge"),
 ]
 
 def route(text: str, mode: str | None = None) -> dict:
