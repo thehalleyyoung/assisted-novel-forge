@@ -325,3 +325,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `905a12d`
 
+
+## Round 37 — sub-verify-ux
+
+**Gap:** Users might skip gate
+
+**Addition:** README Use + false_done reference
+
+**Commit:** `a72ef8f`
+
