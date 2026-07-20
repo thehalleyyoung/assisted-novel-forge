@@ -235,3 +235,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `b6353a4`
 
+
+## Round 27 — buff-nc-role
+
+**Gap:** Overlap confusion with novel-writer
+
+**Addition:** vs_novel_writer + non-triggers + smoke
+
+**Commit:** `4525b9f`
+

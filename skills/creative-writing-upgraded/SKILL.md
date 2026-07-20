@@ -329,3 +329,8 @@ A parallel-dispatch review pipeline with structured synthesis protocol for resol
 **Genres Covered**: Blog, Research, Fiction, Essay, Marketing
 **Pipelines**: Prose Revision, Novel Development, Manuscript Audit, Content Production, Review Synthesis
 **Last Updated**: 2026-02-06
+
+## Remix role
+Optional **assisted coach** pass after story-review. Must read handoff pack; must not claim manuscript done (verify-gate owns done).
+## Non-triggers
+Not for grey-haven SEO/geo skill; not Storybook.
