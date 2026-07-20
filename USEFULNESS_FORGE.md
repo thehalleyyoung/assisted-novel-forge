@@ -19,3 +19,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `95e4157`
 
+
+## Round 3 — buff-chapter-smoke
+
+**Gap:** No smoke eval proving false-done catch
+
+**Addition:** Added evals/run_smoke.py + non-triggers + UPGRADE_PLAN
+
+**Commit:** `bbac5f1`
+

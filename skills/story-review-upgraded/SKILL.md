@@ -42,3 +42,6 @@ When review incorporates reader-sim data:
 
 - `resources/reader-sim-signal.md` — how to interpret and synthesize
   reader-sim output alongside analytical critique.
+
+## Remix — blocking gate
+Write `review/blocking.json` via `scripts/review_blocking.py`. Superskill verify-gate fails while blocking=true.
