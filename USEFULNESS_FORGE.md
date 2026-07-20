@@ -352,3 +352,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `0750422`
 
+
+## Round 40 — sub-cont-eval
+
+**Gap:** Need planted contradiction fail
+
+**Addition:** Fixtures a/b name clash + smoke expect FAIL
+
+**Commit:** `3ccd445`
+
