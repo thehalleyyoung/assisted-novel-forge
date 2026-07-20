@@ -244,3 +244,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `4525b9f`
 
+
+## Round 28 — buff-gh-coach
+
+**Gap:** Greyhaven CW mixed with SEO sibling; unclear novel role
+
+**Addition:** Scoped as assisted coach + coach_notes.py + non-triggers
+
+**Commit:** `131396d`
+
