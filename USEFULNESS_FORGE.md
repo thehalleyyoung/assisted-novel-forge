@@ -64,3 +64,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `5000fcd`
 
+
+## Round 8 — buff-craft-targets
+
+**Gap:** No revision_targets.json for chapter rewrite loop
+
+**Addition:** write_revision_targets.py + README slash example
+
+**Commit:** `c6dadd0`
+

@@ -356,3 +356,6 @@ Choose details that do double duty:
 
 ## Craft report
 `python3 scripts/craft_pass_report.py --chapter CH --out PROJECT/review/craft_report.json`
+
+## Non-triggers
+Not for SEO blog keyword stuffing or academic lit-review tone guides.
