@@ -128,3 +128,6 @@ Wire into assisted-novel-forge handoff-pack (`chapters/`, `continuity/ledger.jso
 
 ## Handoff export
 After draft: `python3 scripts/export_handoff_chapter.py --root PROJECT --chapter chapters/chNN.md`.
+
+## Non-triggers
+Do not use for Storybook stories, agile user stories, or one-line tweet drafts.

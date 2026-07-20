@@ -10,3 +10,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `484d198`
 
+
+## Round 2 — buff-chapter-handoff
+
+**Gap:** Chapter skill did not write machine-readable handoff artifacts
+
+**Addition:** Added export_handoff_chapter.py + handoff_contract.md + slash Use example
+
+**Commit:** `95e4157`
+
