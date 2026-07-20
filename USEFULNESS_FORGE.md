@@ -28,3 +28,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `bbac5f1`
 
+
+## Round 4 — buff-review-blocking
+
+**Gap:** Review skills rubber-stamp without machine-readable blocking state
+
+**Addition:** Added review_blocking.py writing review/blocking.json for verify-gate
+
+**Commit:** `85153b7`
+

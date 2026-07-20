@@ -9,3 +9,5 @@
 | Metrics | (fill) | (fill) |
 
 Update this table as forge themes land.
+
+| Blocking JSON | none | review/blocking.json + claims |
