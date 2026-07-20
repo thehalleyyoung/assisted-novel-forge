@@ -1,0 +1,16 @@
+{
+  "id": "mave99a/novel-skill@novel-creator",
+  "installs": 626,
+  "query": "novel writing",
+  "source": "skills_sh",
+  "url": "https://github.com/mave99a/novel-skill",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/mave99a/novel-skill/novel-creator",
+  "stars": 10,
+  "license": "mit",
+  "pushed_at": "2026-01-08T03:17:14Z",
+  "archived": false,
+  "github_url": "https://github.com/mave99a/novel-skill",
+  "github_description": "Agent Skill for creating a full novel",
+  "installs_approx": 626
+}

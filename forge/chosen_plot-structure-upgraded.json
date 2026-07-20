@@ -1,0 +1,15 @@
+{
+  "id": "danjdewhurst/story-skills@plot-structure",
+  "installs": 270,
+  "source": "skills_sh",
+  "url": "https://github.com/danjdewhurst/story-skills",
+  "skill_subdir": ".",
+  "query": "supplement",
+  "stars": 118,
+  "license": "mit",
+  "pushed_at": "2026-06-11T21:26:53Z",
+  "archived": false,
+  "github_url": "https://github.com/danjdewhurst/story-skills",
+  "github_description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+  "installs_approx": 270
+}

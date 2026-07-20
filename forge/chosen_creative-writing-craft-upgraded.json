@@ -1,0 +1,16 @@
+{
+  "id": "4444j99/a-i--skills@creative-writing-craft",
+  "installs": 467,
+  "query": "creative writing",
+  "source": "skills_sh",
+  "url": "https://github.com/organvm/a-i--skills",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/4444j99/a-i--skills/creative-writing-craft",
+  "stars": 12,
+  "license": "apache-2.0",
+  "pushed_at": "2026-07-19T10:53:49Z",
+  "archived": false,
+  "github_url": "https://github.com/organvm/a-i--skills",
+  "github_description": "Public repository of AI agent skills: specialized capabilities and workflows across 12 categories",
+  "installs_approx": 467
+}

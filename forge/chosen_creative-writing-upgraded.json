@@ -1,0 +1,16 @@
+{
+  "id": "greyhaven-ai/claude-code-config@creative-writing",
+  "installs": 213,
+  "query": "prose revision",
+  "source": "skills_sh",
+  "url": "https://github.com/greyhaven-ai/claude-code-config",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/greyhaven-ai/claude-code-config/creative-writing",
+  "stars": 29,
+  "license": "mit",
+  "pushed_at": "2026-04-20T14:28:11Z",
+  "archived": false,
+  "github_url": "https://github.com/greyhaven-ai/claude-code-config",
+  "github_description": "Grey Haven's centralized repository for Claude Code agents, commands, and configs",
+  "installs_approx": 213
+}

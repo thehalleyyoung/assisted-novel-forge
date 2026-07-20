@@ -1,0 +1,593 @@
+{
+  "mode": "remix",
+  "n": 10,
+  "domain": "writing",
+  "members": [
+    {
+      "id": "4444j99/a-i--skills@creative-writing-craft",
+      "installs": 467,
+      "query": "creative writing",
+      "source": "skills_sh",
+      "url": "https://github.com/organvm/a-i--skills",
+      "skill_subdir": ".",
+      "skills_sh_url": "https://skills.sh/4444j99/a-i--skills/creative-writing-craft",
+      "stars": 12,
+      "license": "apache-2.0",
+      "pushed_at": "2026-07-19T10:53:49Z",
+      "archived": false,
+      "github_url": "https://github.com/organvm/a-i--skills",
+      "github_description": "Public repository of AI agent skills: specialized capabilities and workflows across 12 categories",
+      "installs_approx": 467
+    },
+    {
+      "id": "haowjy/creative-writing-skills@story-architecture",
+      "installs": 480,
+      "query": "story writing",
+      "source": "skills_sh",
+      "url": "https://github.com/haowjy/creative-writing-skills",
+      "skill_subdir": ".",
+      "skills_sh_url": "https://skills.sh/haowjy/creative-writing-skills/story-architecture",
+      "stars": 337,
+      "license": "apache-2.0",
+      "pushed_at": "2026-07-09T20:16:36Z",
+      "archived": false,
+      "github_url": "https://github.com/haowjy/creative-writing-skills",
+      "github_description": "claude skills focused on creative writing",
+      "installs_approx": 480
+    },
+    {
+      "id": "mave99a/novel-skill@novel-creator",
+      "installs": 626,
+      "query": "novel writing",
+      "source": "skills_sh",
+      "url": "https://github.com/mave99a/novel-skill",
+      "skill_subdir": ".",
+      "skills_sh_url": "https://skills.sh/mave99a/novel-skill/novel-creator",
+      "stars": 10,
+      "license": "mit",
+      "pushed_at": "2026-01-08T03:17:14Z",
+      "archived": false,
+      "github_url": "https://github.com/mave99a/novel-skill",
+      "github_description": "Agent Skill for creating a full novel",
+      "installs_approx": 626
+    },
+    {
+      "id": "danjdewhurst/story-skills@chapter-writing",
+      "installs": 272,
+      "query": "chapter outline",
+      "source": "skills_sh",
+      "url": "https://github.com/danjdewhurst/story-skills",
+      "skill_subdir": ".",
+      "skills_sh_url": "https://skills.sh/danjdewhurst/story-skills/chapter-writing",
+      "stars": 118,
+      "license": "mit",
+      "pushed_at": "2026-06-11T21:26:53Z",
+      "archived": false,
+      "github_url": "https://github.com/danjdewhurst/story-skills",
+      "github_description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+      "installs_approx": 272
+    },
+    {
+      "id": "danjdewhurst/story-skills@worldbuilding",
+      "installs": 300,
+      "source": "skills_sh",
+      "url": "https://github.com/danjdewhurst/story-skills",
+      "skill_subdir": ".",
+      "query": "supplement",
+      "stars": 118,
+      "license": "mit",
+      "pushed_at": "2026-06-11T21:26:53Z",
+      "archived": false,
+      "github_url": "https://github.com/danjdewhurst/story-skills",
+      "github_description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+      "installs_approx": 300
+    },
+    {
+      "id": "danjdewhurst/story-skills@plot-structure",
+      "installs": 270,
+      "source": "skills_sh",
+      "url": "https://github.com/danjdewhurst/story-skills",
+      "skill_subdir": ".",
+      "query": "supplement",
+      "stars": 118,
+      "license": "mit",
+      "pushed_at": "2026-06-11T21:26:53Z",
+      "archived": false,
+      "github_url": "https://github.com/danjdewhurst/story-skills",
+      "github_description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+      "installs_approx": 270
+    },
+    {
+      "id": "yangsonhung/awesome-agent-skills@novel-writer",
+      "installs": 468,
+      "query": "worldbuilding fiction",
+      "source": "skills_sh",
+      "url": "https://github.com/YangsonHung/awesome-agent-skills",
+      "skill_subdir": ".",
+      "skills_sh_url": "https://skills.sh/yangsonhung/awesome-agent-skills/novel-writer",
+      "stars": 13,
+      "license": "mit",
+      "pushed_at": "2026-07-13T11:50:43Z",
+      "archived": false,
+      "github_url": "https://github.com/YangsonHung/awesome-agent-skills",
+      "github_description": "A collection of AI Agent Skills that provide professional domain capabilities for intelligent assistants like Claude Code.",
+      "installs_approx": 468
+    },
+    {
+      "id": "greyhaven-ai/claude-code-config@creative-writing",
+      "installs": 213,
+      "query": "prose revision",
+      "source": "skills_sh",
+      "url": "https://github.com/greyhaven-ai/claude-code-config",
+      "skill_subdir": ".",
+      "skills_sh_url": "https://skills.sh/greyhaven-ai/claude-code-config/creative-writing",
+      "stars": 29,
+      "license": "mit",
+      "pushed_at": "2026-04-20T14:28:11Z",
+      "archived": false,
+      "github_url": "https://github.com/greyhaven-ai/claude-code-config",
+      "github_description": "Grey Haven's centralized repository for Claude Code agents, commands, and configs",
+      "installs_approx": 213
+    },
+    {
+      "id": "haowjy/creative-writing-skills@writing-principles",
+      "installs": 483,
+      "query": "creative writing",
+      "source": "skills_sh",
+      "url": "https://github.com/haowjy/creative-writing-skills",
+      "skill_subdir": ".",
+      "skills_sh_url": "https://skills.sh/haowjy/creative-writing-skills/writing-principles",
+      "stars": 337,
+      "license": "apache-2.0",
+      "pushed_at": "2026-07-09T20:16:36Z",
+      "archived": false,
+      "github_url": "https://github.com/haowjy/creative-writing-skills",
+      "github_description": "claude skills focused on creative writing",
+      "installs_approx": 483
+    },
+    {
+      "id": "haowjy/creative-writing-skills@story-review",
+      "installs": 200,
+      "query": "curated-replacement",
+      "source": "skills_sh",
+      "url": "https://github.com/haowjy/creative-writing-skills",
+      "skill_subdir": ".",
+      "skills_sh_url": "https://skills.sh/haowjy/creative-writing-skills/story-architecture",
+      "stars": 337,
+      "license": "apache-2.0",
+      "pushed_at": "2026-07-09T20:16:36Z",
+      "archived": false,
+      "github_url": "https://github.com/haowjy/creative-writing-skills",
+      "github_description": "claude skills focused on creative writing",
+      "installs_approx": 200
+    }
+  ],
+  "buffs": [
+    {
+      "id": "danjdewhurst/story-skills@chapter-writing",
+      "skill": "chapter-writing",
+      "installs_approx": 272,
+      "gap_score": 13.0,
+      "gap_ids": [
+        "no-scripts",
+        "no-evals",
+        "no-verify-step",
+        "no-nontriggers",
+        "weak-install",
+        "no-slash-example",
+        "no-metrics",
+        "no-failure-recovery"
+      ],
+      "audit_missing": false,
+      "priority": "heavy",
+      "forge_rounds": 3,
+      "why_buff": "Chapter prose is where false-done hides; needs verify + evals + handoff I/O.",
+      "how_buff": "verify scripts + evals + handoff I/O + install dual + metrics"
+    },
+    {
+      "id": "haowjy/creative-writing-skills@story-review",
+      "skill": "story-review",
+      "installs_approx": 200,
+      "gap_score": 13.0,
+      "gap_ids": [
+        "no-scripts",
+        "no-evals",
+        "no-verify-step",
+        "no-nontriggers",
+        "weak-install",
+        "no-slash-example",
+        "no-metrics",
+        "no-failure-recovery"
+      ],
+      "audit_missing": false,
+      "priority": "heavy",
+      "forge_rounds": 3,
+      "why_buff": "Critique without independent checks rubber-stamps drafts.",
+      "how_buff": "verify scripts + evals + handoff I/O + install dual + metrics"
+    },
+    {
+      "id": "4444j99/a-i--skills@creative-writing-craft",
+      "skill": "creative-writing-craft",
+      "installs_approx": 467,
+      "gap_score": 12.0,
+      "gap_ids": [
+        "no-scripts",
+        "no-evals",
+        "no-verify-step",
+        "no-nontriggers",
+        "weak-install",
+        "no-slash-example",
+        "no-metrics"
+      ],
+      "audit_missing": false,
+      "priority": "medium",
+      "forge_rounds": 3,
+      "why_buff": "Craft pass must read pack + write revision_targets.json.",
+      "how_buff": "handoff I/O + one verify script + non-triggers + evals stub"
+    },
+    {
+      "id": "haowjy/creative-writing-skills@story-architecture",
+      "skill": "story-architecture",
+      "installs_approx": 480,
+      "gap_score": 12.0,
+      "gap_ids": [
+        "no-scripts",
+        "no-evals",
+        "no-verify-step",
+        "weak-install",
+        "no-slash-example",
+        "no-metrics",
+        "no-failure-recovery"
+      ],
+      "audit_missing": false,
+      "priority": "medium",
+      "forge_rounds": 3,
+      "why_buff": "Map story-planning resources into pack architecture.md.",
+      "how_buff": "handoff I/O + one verify script + non-triggers + evals stub"
+    },
+    {
+      "id": "yangsonhung/awesome-agent-skills@novel-writer",
+      "skill": "novel-writer",
+      "installs_approx": 468,
+      "gap_score": 12.0,
+      "gap_ids": [
+        "no-scripts",
+        "no-evals",
+        "no-verify-step",
+        "weak-install",
+        "no-slash-example",
+        "no-metrics",
+        "no-failure-recovery"
+      ],
+      "audit_missing": false,
+      "priority": "medium",
+      "forge_rounds": 3,
+      "why_buff": "EN novel-writer as alternate planner; demote overlap with novel-creator via router.",
+      "how_buff": "handoff I/O + one verify script + non-triggers + evals stub"
+    },
+    {
+      "id": "danjdewhurst/story-skills@plot-structure",
+      "skill": "plot-structure",
+      "installs_approx": 270,
+      "gap_score": 11.0,
+      "gap_ids": [
+        "no-scripts",
+        "no-evals",
+        "no-nontriggers",
+        "weak-install",
+        "no-slash-example",
+        "no-metrics",
+        "no-failure-recovery"
+      ],
+      "audit_missing": false,
+      "priority": "medium",
+      "forge_rounds": 3,
+      "why_buff": "Add schema export into handoff-pack; light verify for beat coverage.",
+      "how_buff": "handoff I/O + one verify script + non-triggers + evals stub"
+    },
+    {
+      "id": "danjdewhurst/story-skills@worldbuilding",
+      "skill": "worldbuilding",
+      "installs_approx": 300,
+      "gap_score": 11.0,
+      "gap_ids": [
+        "no-scripts",
+        "no-evals",
+        "no-nontriggers",
+        "weak-install",
+        "no-slash-example",
+        "no-metrics",
+        "no-failure-recovery"
+      ],
+      "audit_missing": false,
+      "priority": "medium",
+      "forge_rounds": 3,
+      "why_buff": "Export world canon files the chapter skill already expects.",
+      "how_buff": "handoff I/O + one verify script + non-triggers + evals stub"
+    },
+    {
+      "id": "haowjy/creative-writing-skills@writing-principles",
+      "skill": "writing-principles",
+      "installs_approx": 483,
+      "gap_score": 10.0,
+      "gap_ids": [
+        "no-scripts",
+        "no-evals",
+        "no-verify-step",
+        "no-nontriggers",
+        "weak-install",
+        "no-slash-example"
+      ],
+      "audit_missing": false,
+      "priority": "light",
+      "forge_rounds": 3,
+      "why_buff": "Already resource-rich; add non-triggers + pack voice_contract.md writer.",
+      "how_buff": "non-triggers + dual-install + pack write hook"
+    },
+    {
+      "id": "mave99a/novel-skill@novel-creator",
+      "skill": "novel-creator",
+      "installs_approx": 626,
+      "gap_score": 10.0,
+      "gap_ids": [
+        "no-evals",
+        "no-verify-step",
+        "no-nontriggers",
+        "weak-install",
+        "no-slash-example",
+        "no-metrics"
+      ],
+      "audit_missing": false,
+      "priority": "heavy",
+      "forge_rounds": 3,
+      "why_buff": "Full-novel path must emit pack + refuse done without verify-gate.",
+      "how_buff": "verify scripts + evals + handoff I/O + install dual + metrics"
+    },
+    {
+      "id": "greyhaven-ai/claude-code-config@creative-writing",
+      "skill": "creative-writing",
+      "installs_approx": 213,
+      "gap_score": 9.0,
+      "gap_ids": [
+        "no-scripts",
+        "no-evals",
+        "no-nontriggers",
+        "weak-install",
+        "no-slash-example",
+        "placeholders"
+      ],
+      "audit_missing": false,
+      "priority": "light",
+      "forge_rounds": 3,
+      "why_buff": "Assisted coach only; install UX + non-triggers + pack hook.",
+      "how_buff": "non-triggers + dual-install + pack write hook"
+    }
+  ],
+  "subskills": [
+    {
+      "name": "handoff-pack",
+      "kind": "subskill",
+      "job": "Materialize a fiction project pack (brief.json, bible.md, world/, plot/, chapters/, continuity/ledger.json) with schema validate so phase skills share one filesystem contract.",
+      "pulls_from": [
+        "chapter-writing",
+        "worldbuilding",
+        "plot-structure",
+        "novel-creator",
+        "story-architecture"
+      ]
+    },
+    {
+      "name": "verify-gate",
+      "kind": "subskill",
+      "job": "Independent false-done gate: required artifacts exist, claims coverage, min word counts, continuity ledger dirty=false, AI-sermon heuristics optional \u2014 scripts decide PASS/FAIL, not chat self-grade.",
+      "pulls_from": [
+        "chapter-writing",
+        "story-review",
+        "novel-creator"
+      ]
+    },
+    {
+      "name": "continuity-bridge",
+      "kind": "subskill",
+      "job": "Diff and merge continuity ledgers across world/plot/chapter/review stages; block superskill advance when unresolved contradictions remain.",
+      "pulls_from": [
+        "worldbuilding",
+        "plot-structure",
+        "chapter-writing",
+        "story-review"
+      ]
+    },
+    {
+      "name": "assist-mode-router",
+      "kind": "subskill",
+      "job": "Route autonomous vs assisted creative writing: gate AskUserQuestion, default lengths, and which member skill owns novel planning (novel-creator vs novel-writer) without Storybook/user-story misfires.",
+      "pulls_from": [
+        "novel-creator",
+        "novel-writer",
+        "creative-writing",
+        "writing-principles"
+      ]
+    }
+  ],
+  "superskill": {
+    "name": "assisted-novel-forge",
+    "kind": "superskill",
+    "job": "Run an autonomous-or-assisted creative-writing pipeline: intake \u2192 world/plot/architecture \u2192 novel plan \u2192 chapters \u2192 craft \u2192 review, with handoff packs and verify gates so agents cannot false-done a manuscript.",
+    "phases": [
+      "0. intake + mode (autonomous|assisted) + non-trigger guard (not Storybook UI, not agile user-stories, not scientific manuscripts)",
+      "1. writing-principles \u2014 craft constraints / voice contract",
+      "2. worldbuilding \u2014 canon places/rules/factions",
+      "3. plot-structure \u2014 arc beats + stakes ladder",
+      "4. story-architecture (story-planning) \u2014 chapter/scene architecture",
+      "5. novel-creator OR novel-writer \u2014 full-novel plan (assisted asks; autonomous generates)",
+      "6. chapter-writing \u2014 outline-then-prose per chapter",
+      "7. creative-writing-craft \u2014 prose craft pass",
+      "8. story-review \u2014 critique + revision targets",
+      "9. greyhaven creative-writing \u2014 optional assisted coach pass",
+      "10. verify-gate + metric rollup \u2014 refuse done until pass"
+    ],
+    "wires": [
+      "writing-principles-upgraded",
+      "worldbuilding-upgraded",
+      "plot-structure-upgraded",
+      "story-architecture-upgraded",
+      "novel-creator-upgraded",
+      "novel-writer-upgraded",
+      "chapter-writing-upgraded",
+      "creative-writing-craft-upgraded",
+      "story-review-upgraded",
+      "creative-writing-upgraded",
+      "handoff-pack",
+      "verify-gate",
+      "continuity-bridge",
+      "assist-mode-router"
+    ],
+    "modes": {
+      "assisted": "AskUserQuestion at phase boundaries; never overwrite user canon without confirm",
+      "autonomous": "Generate full pipeline with checkpoints written to project/; still must pass verify-gate"
+    }
+  },
+  "forge_rounds": 50,
+  "round_map": [
+    {
+      "kind": "buff",
+      "target": "danjdewhurst/story-skills@chapter-writing",
+      "rounds": [
+        1,
+        3
+      ]
+    },
+    {
+      "kind": "buff",
+      "target": "haowjy/creative-writing-skills@story-review",
+      "rounds": [
+        4,
+        6
+      ]
+    },
+    {
+      "kind": "buff",
+      "target": "4444j99/a-i--skills@creative-writing-craft",
+      "rounds": [
+        7,
+        9
+      ]
+    },
+    {
+      "kind": "buff",
+      "target": "haowjy/creative-writing-skills@story-architecture",
+      "rounds": [
+        10,
+        12
+      ]
+    },
+    {
+      "kind": "buff",
+      "target": "yangsonhung/awesome-agent-skills@novel-writer",
+      "rounds": [
+        13,
+        15
+      ]
+    },
+    {
+      "kind": "buff",
+      "target": "danjdewhurst/story-skills@plot-structure",
+      "rounds": [
+        16,
+        18
+      ]
+    },
+    {
+      "kind": "buff",
+      "target": "danjdewhurst/story-skills@worldbuilding",
+      "rounds": [
+        19,
+        21
+      ]
+    },
+    {
+      "kind": "buff",
+      "target": "haowjy/creative-writing-skills@writing-principles",
+      "rounds": [
+        22,
+        24
+      ]
+    },
+    {
+      "kind": "buff",
+      "target": "mave99a/novel-skill@novel-creator",
+      "rounds": [
+        25,
+        27
+      ]
+    },
+    {
+      "kind": "buff",
+      "target": "greyhaven-ai/claude-code-config@creative-writing",
+      "rounds": [
+        28,
+        30
+      ]
+    },
+    {
+      "kind": "subskill",
+      "target": "handoff-pack",
+      "rounds": [
+        31,
+        34
+      ]
+    },
+    {
+      "kind": "subskill",
+      "target": "verify-gate",
+      "rounds": [
+        35,
+        38
+      ]
+    },
+    {
+      "kind": "subskill",
+      "target": "continuity-bridge",
+      "rounds": [
+        39,
+        42
+      ]
+    },
+    {
+      "kind": "subskill",
+      "target": "assist-mode-router",
+      "rounds": [
+        43,
+        46
+      ]
+    },
+    {
+      "kind": "superskill",
+      "target": "assisted-novel-forge",
+      "rounds": [
+        47,
+        50
+      ]
+    }
+  ],
+  "thesis": "Compose 10 middling fiction skills into one assisted/autonomous novel forge: shared project pack, continuity bridge, and verify-gate so marketplace phase skills stop false-doing manuscripts.",
+  "agent_must_refine": [
+    "Replace heuristic subskills with ones that match real member I/O after clone/read",
+    "Drop a member from buff list only if it is already composition-ready (rare)",
+    "Name the superskill for the user-facing end-to-end job, not a mashup of repo names",
+    "Cite each upstream id in UPSTREAM.md / REMIX_PLAN.md"
+  ],
+  "skill_src_map": {
+    "4444j99/a-i--skills@creative-writing-craft": "/Users/halley/linkedin/skillremix-wip-20260720T205414Z/upstream/organvm__a-i--skills/skills/creative/creative-writing-craft",
+    "haowjy/creative-writing-skills@story-architecture": "/Users/halley/linkedin/skillremix-wip-20260720T205414Z/upstream/haowjy__creative-writing-skills/skills/story-planning",
+    "haowjy/creative-writing-skills@writing-principles": "/Users/halley/linkedin/skillremix-wip-20260720T205414Z/upstream/haowjy__creative-writing-skills/skills/writing-principles",
+    "haowjy/creative-writing-skills@story-review": "/Users/halley/linkedin/skillremix-wip-20260720T205414Z/upstream/haowjy__creative-writing-skills/skills/story-review",
+    "mave99a/novel-skill@novel-creator": "/Users/halley/linkedin/skillremix-wip-20260720T205414Z/upstream/mave99a__novel-skill/skills/novel-creator",
+    "danjdewhurst/story-skills@chapter-writing": "/Users/halley/linkedin/skillremix-wip-20260720T205414Z/upstream/danjdewhurst__story-skills/skills/chapter-writing",
+    "danjdewhurst/story-skills@worldbuilding": "/Users/halley/linkedin/skillremix-wip-20260720T205414Z/upstream/danjdewhurst__story-skills/skills/worldbuilding",
+    "danjdewhurst/story-skills@plot-structure": "/Users/halley/linkedin/skillremix-wip-20260720T205414Z/upstream/danjdewhurst__story-skills/skills/plot-structure",
+    "yangsonhung/awesome-agent-skills@novel-writer": "/Users/halley/linkedin/skillremix-wip-20260720T205414Z/upstream/YangsonHung__awesome-agent-skills/skills/en/novel-writer",
+    "greyhaven-ai/claude-code-config@creative-writing": "/Users/halley/linkedin/skillremix-wip-20260720T205414Z/upstream/greyhaven-ai__claude-code-config/grey-haven-plugins/creative-writing/skills/creative-writing"
+  },
+  "refined": true
+}

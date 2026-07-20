@@ -1,0 +1,16 @@
+{
+  "id": "yangsonhung/awesome-agent-skills@novel-writer",
+  "installs": 468,
+  "query": "worldbuilding fiction",
+  "source": "skills_sh",
+  "url": "https://github.com/YangsonHung/awesome-agent-skills",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/yangsonhung/awesome-agent-skills/novel-writer",
+  "stars": 13,
+  "license": "mit",
+  "pushed_at": "2026-07-13T11:50:43Z",
+  "archived": false,
+  "github_url": "https://github.com/YangsonHung/awesome-agent-skills",
+  "github_description": "A collection of AI Agent Skills that provide professional domain capabilities for intelligent assistants like Claude Code.",
+  "installs_approx": 468
+}

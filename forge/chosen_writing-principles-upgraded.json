@@ -1,0 +1,16 @@
+{
+  "id": "haowjy/creative-writing-skills@writing-principles",
+  "installs": 483,
+  "query": "creative writing",
+  "source": "skills_sh",
+  "url": "https://github.com/haowjy/creative-writing-skills",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/haowjy/creative-writing-skills/writing-principles",
+  "stars": 337,
+  "license": "apache-2.0",
+  "pushed_at": "2026-07-09T20:16:36Z",
+  "archived": false,
+  "github_url": "https://github.com/haowjy/creative-writing-skills",
+  "github_description": "claude skills focused on creative writing",
+  "installs_approx": 483
+}
