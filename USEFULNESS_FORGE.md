@@ -388,3 +388,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `f153945`
 
+
+## Round 44 — sub-router-eval
+
+**Gap:** Need abstain vs route cases
+
+**Addition:** Smoke: Storybook ABSTAIN, lighthouse ROUTE
+
+**Commit:** `113de87`
+
