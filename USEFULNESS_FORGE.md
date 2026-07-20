@@ -298,3 +298,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `184ee3f`
 
+
+## Round 34 — sub-handoff-fail
+
+**Gap:** Silent continue on bad pack
+
+**Addition:** Failure recovery procedure + COMPARISON
+
+**Commit:** `2717b32`
+
