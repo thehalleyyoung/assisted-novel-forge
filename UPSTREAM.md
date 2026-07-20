@@ -1,5 +1,5 @@
 # Upstream members (all-band — no middling filter)
-Total upgraded skill dirs in package: **41**
+Total upgraded skill dirs in package: **51**
 Install range in discovery: ~25–8200.
 
 - `worldwonderer/oh-story-claudecode@story` — installs≈8200 — license=mit gate=PASS — https://github.com/worldwonderer/oh-story-claudecode
