@@ -136,3 +136,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `ada9232`
 
+
+## Round 16 — buff-plot-export
+
+**Gap:** Plot models stayed in references only
+
+**Addition:** export_plot_index.py materializes beats.json
+
+**Commit:** `8d88a94`
+

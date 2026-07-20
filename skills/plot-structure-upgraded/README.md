@@ -19,3 +19,9 @@ bash install.sh plot-structure-upgraded
 ## Upstream
 
 See `UPSTREAM.md`. Upgrade plan: `UPGRADE_PLAN.md`. Forge log: `USEFULNESS_FORGE.md`.
+
+## Use (after install)
+
+```text
+/plot-structure-upgraded build beats for PROJECT
+```
