@@ -118,3 +118,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `a1a80d8`
 
+
+## Round 14 — buff-nw-role
+
+**Gap:** Overlapped novel-creator without role split
+
+**Addition:** Documented assisted default + vs_novel_creator reference
+
+**Commit:** `81ff177`
+
