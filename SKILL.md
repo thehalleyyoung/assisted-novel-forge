@@ -55,3 +55,6 @@ Chat self-grade is not evidence.
 
 ## Pipeline runner
 `python3 scripts/run_pipeline.py --text "..." --root PROJECT [--mode assisted|autonomous]`
+
+## Integration smoke
+Before publish/claim ship: `bash scripts/smoke_all.sh`.

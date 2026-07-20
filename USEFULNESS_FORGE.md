@@ -433,3 +433,14 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `9272ed9`
 
+
+## Round 49 — super-contract
+
+**Gap:** Phase I/O still tribal knowledge
+
+**Addition:** phase_contract.md + themes JSON + COMPARISON update
+
+**Commit:** `e0b74d9`
+
+## Integration
+Round 50 wires pack+verify+router+continuity smokes into smoke_all.sh.
