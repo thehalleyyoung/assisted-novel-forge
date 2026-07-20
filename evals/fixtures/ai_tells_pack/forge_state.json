@@ -1,7 +1,7 @@
 {
   "schema": "assisted-novel-forge/forge_state",
   "version": 1,
-  "updated_at": "2026-07-20T21:10:12Z",
+  "updated_at": "2026-07-20T21:18:40Z",
   "mode": "assisted",
   "lang": "en",
   "voice": {
@@ -94,24 +94,18 @@
       }
     ],
     "tell_families": {
-      "\\bmoreover\\b": 1,
-      "\\btapestry\\b": 1,
-      "\\bdelve\\b": 1,
-      "\\blandscape of\\b": 1,
-      "\\brobust\\b": 1,
-      "\\bseamless\\b": 1,
-      "\\ba testament to\\b": 1
+      "connective_slop": 1,
+      "purple_metaphor": 2,
+      "corporate_abstract": 4
     },
     "open_beats": [],
     "contradictions": [],
     "revision_targets": [],
     "detector_scrubber_pairs": [
       {
-        "detect": "ai-writing-detection-upgraded",
-        "scrub": "humanize-writing-upgraded",
-        "voice_constraints": [
-          "concrete sensory detail; short clauses under stress; no corporate-abstract fillers"
-        ]
+        "detect": "prose-critique-upgraded",
+        "scrub": "writing-humanizer-upgraded",
+        "dominant_family": "corporate_abstract"
       }
     ]
   },

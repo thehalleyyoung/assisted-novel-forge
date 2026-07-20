@@ -19,6 +19,8 @@ description: >
 
 ## Commands
 
+From this skill directory (or the package root, which also ships the same scripts):
+
 ```bash
 python3 scripts/continuity_bridge.py merge --a A.json --b B.json --out continuity/ledger.json
 python3 scripts/continuity_bridge.py status --ledger continuity/ledger.json

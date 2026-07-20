@@ -8,6 +8,15 @@ description: >
 
 # anti-ai-tells
 
+## When to Use
+
+- Fiction prose needs detect≠scrub AI-tell cleanup under voice_contract
+
+## When NOT to Use
+
+- Non-fiction marketing copy or code-comment slop outside the novel pack
+
+
 ## Superadditive protocol (not "run all 10")
 
 1. `ai_tells_ensemble.py --voice-aware` → families + adversarial_pair

@@ -9,6 +9,15 @@ description: >
 
 # forge-composer
 
+## When to Use
+
+- Need a minimal pressure-driven plan instead of running all members
+
+## When NOT to Use
+
+- User only wants a single named member skill with no composition
+
+
 ## Why this exists
 
 Fifty marketplace skills in a row is *less* than the sum of their parts (noise, false-done, voice erasure).

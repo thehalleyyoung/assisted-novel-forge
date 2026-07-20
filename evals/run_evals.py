@@ -27,7 +27,11 @@ r = subprocess.run([sys.executable, str(scripts/"ai_tells_ensemble.py"), "--root
 aitg = json.loads(r.stdout)
 results.append({"case":"ai_tells_good_pass", "decision": aitg["decision"], "expect":"PASS", "pass": aitg["decision"]=="PASS"})
 # compose should not prescribe the entire marketplace
-r = subprocess.run([sys.executable, str(scripts/"compose.py"), "--root", str(ROOT/"evals/fixtures/ai_tells_pack"), "--write"], capture_output=True, text=True)
+import tempfile, shutil
+_td = tempfile.mkdtemp()
+_fx = Path(_td)/"ai_tells_pack"
+shutil.copytree(ROOT/"evals/fixtures/ai_tells_pack", _fx)
+r = subprocess.run([sys.executable, str(scripts/"compose.py"), "--root", str(_fx), "--write"], capture_output=True, text=True)
 comp = json.loads(r.stdout)
 n_members = len((comp.get("prescription") or {}).get("members") or [])
 has_pair = bool((comp.get("prescription") or {}).get("detector_scrubber_pairs"))
