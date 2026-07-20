@@ -334,3 +334,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `a72ef8f`
 
+
+## Round 38 — sub-verify-metrics
+
+**Gap:** No metric card for superskill rollup
+
+**Addition:** metric_rollup.py emits metric_card
+
+**Commit:** `1f9b9bd`
+
