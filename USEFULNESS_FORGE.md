@@ -82,3 +82,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `8432bc3`
 
+
+## Round 10 — buff-arch-export
+
+**Gap:** Architecture lived only in chat/resources, not pack file
+
+**Addition:** export_architecture.py materializes architecture.md
+
+**Commit:** `44fae70`
+

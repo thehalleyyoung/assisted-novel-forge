@@ -19,3 +19,9 @@ bash install.sh story-architecture-upgraded
 ## Upstream
 
 See `UPSTREAM.md`. Upgrade plan: `UPGRADE_PLAN.md`. Forge log: `USEFULNESS_FORGE.md`.
+
+## Use (after install)
+
+```text
+/story-architecture-upgraded plan architecture for PROJECT
+```
