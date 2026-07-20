@@ -19,3 +19,9 @@ bash install.sh chapter-writing-upgraded
 ## Upstream
 
 See `UPSTREAM.md`. Upgrade plan: `UPGRADE_PLAN.md`. Forge log: `USEFULNESS_FORGE.md`.
+
+## Use (after install)
+
+```text
+/chapter-writing-upgraded next chapter for PROJECT
+```

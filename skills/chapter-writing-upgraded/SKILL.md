@@ -125,3 +125,6 @@ Use the Story CLI when it is available. If `story` is not installed but the `sto
 ## Remix upgrade — verify before done
 After writing a chapter, run `python3 scripts/chapter_verify.py --root PROJECT --chapter PATH --json` and refuse done on FAIL.
 Wire into assisted-novel-forge handoff-pack (`chapters/`, `continuity/ledger.json`).
+
+## Handoff export
+After draft: `python3 scripts/export_handoff_chapter.py --root PROJECT --chapter chapters/chNN.md`.
