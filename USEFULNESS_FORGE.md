@@ -289,3 +289,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `bc58429`
 
+
+## Round 33 — sub-handoff-migrate
+
+**Gap:** danjdewhurst layout != pack layout
+
+**Addition:** migrate_legacy_story_md.py bridge
+
+**Commit:** `184ee3f`
+

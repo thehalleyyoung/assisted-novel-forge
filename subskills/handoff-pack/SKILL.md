@@ -8,3 +8,6 @@ Required: brief.json, bible.md, world/, plot/, chapters/, characters/, continuit
 
 ## Commands
 `init` and `validate` — see package scripts (copied here for standalone install).
+
+## Failure recovery
+If validate FAIL, print reasons and do not continue superskill phases.
