@@ -91,3 +91,6 @@ Use the Story CLI when it is available. If `story` is not installed but the `sto
 - **`references/faction-template.md`** - Template for faction files
 - **`references/artifact-template.md`** - Template for artifact/object files
 - **`references/world-element-types.md`** - Detailed prompts for each system type (magic, political, technology, religion, economic, military, social)
+
+## Canon export
+`export_world_canon.py` writes world/ + continuity facts.

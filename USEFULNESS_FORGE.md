@@ -154,3 +154,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `4574993`
 
+
+## Round 18 — buff-plot-nont
+
+**Gap:** Story-points agile collision
+
+**Addition:** Non-triggers + pack_wire
+
+**Commit:** `10ab739`
+
