@@ -271,3 +271,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `1ac65ba`
 
+
+## Round 31 — sub-handoff-init
+
+**Gap:** Members disagreed on project layout
+
+**Addition:** Standalone handoff-pack subskill with scripts + smoke init
+
+**Commit:** `716c83b`
+
