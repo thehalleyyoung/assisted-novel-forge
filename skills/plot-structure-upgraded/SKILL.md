@@ -99,3 +99,6 @@ Use the Story CLI when it is available. If `story` is not installed but the `sto
 
 ## Export
 `export_plot_index.py` writes plot/_index.md + beats.json for handoff-pack.
+
+## Non-triggers
+Not for project-management burndown charts named 'story points'.

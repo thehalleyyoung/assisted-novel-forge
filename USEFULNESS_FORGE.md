@@ -145,3 +145,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `8d88a94`
 
+
+## Round 17 — buff-plot-coverage
+
+**Gap:** No beat coverage metric
+
+**Addition:** beat_coverage.py FAIL until beats marked done
+
+**Commit:** `4574993`
+
