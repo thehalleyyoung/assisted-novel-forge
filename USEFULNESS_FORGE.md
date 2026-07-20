@@ -307,3 +307,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `2717b32`
 
+
+## Round 35 — sub-verify-port
+
+**Gap:** Done gate must be installable standalone
+
+**Addition:** Copied verify_gate.py into subskill
+
+**Commit:** `602b618`
+
