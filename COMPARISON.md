@@ -8,3 +8,6 @@
 | Continuity | Ad-hoc | continuity_bridge.py ledger merge |
 | Wrong-sense | Over-triggers on Storybook/user-stories | assist_mode_router ABSTAIN |
 | Modes | One style | assisted (AskUser) vs autonomous (checkpointed) |
+
+| E2E smoke | none | run_pipeline_smoke + evals |
+| Wrong-sense guard | rare | assist_mode_router |

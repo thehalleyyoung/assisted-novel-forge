@@ -424,3 +424,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `9292bad`
 
+
+## Round 48 — super-smoke
+
+**Gap:** No e2e abstain/route smoke
+
+**Addition:** run_pipeline_smoke.py + README smoke section
+
+**Commit:** `9272ed9`
+

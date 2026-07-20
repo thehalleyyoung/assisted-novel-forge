@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "id": "T-pack",
+      "title": "Shared handoff pack"
+    },
+    {
+      "id": "T-verify",
+      "title": "Independent verify gate"
+    },
+    {
+      "id": "T-continuity",
+      "title": "Continuity bridge"
+    },
+    {
+      "id": "T-router",
+      "title": "Assist/autonomous router"
+    },
+    {
+      "id": "T-wire",
+      "title": "Member buffs wired to pack"
+    }
+  ]
+}
