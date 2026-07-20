@@ -55,3 +55,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `3a3694d`
 
+
+## Round 7 — buff-craft-report
+
+**Gap:** Craft advice stayed chatty with no artifact
+
+**Addition:** craft_pass_report.py emits rewrite/pass JSON; telltale fixture
+
+**Commit:** `5000fcd`
+

@@ -19,3 +19,9 @@ bash install.sh creative-writing-craft-upgraded
 ## Upstream
 
 See `UPSTREAM.md`. Upgrade plan: `UPGRADE_PLAN.md`. Forge log: `USEFULNESS_FORGE.md`.
+
+## Use (after install)
+
+```text
+/creative-writing-craft-upgraded craft pass on ch03
+```
