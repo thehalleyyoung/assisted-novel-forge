@@ -217,3 +217,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `2d63f24`
 
+
+## Round 25 — buff-nc-pack
+
+**Gap:** novel-creator produced EPUB path without shared pack/verify
+
+**Addition:** init_novel_pack.py + hard done-rule in SKILL
+
+**Commit:** `98d2567`
+
