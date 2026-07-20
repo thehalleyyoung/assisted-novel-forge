@@ -316,3 +316,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `602b618`
 
+
+## Round 36 — sub-verify-eval
+
+**Gap:** Need with/without planted fail
+
+**Addition:** evals/run_smoke on good_pack vs bad_pack
+
+**Commit:** `905a12d`
+
