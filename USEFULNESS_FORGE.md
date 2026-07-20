@@ -253,3 +253,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `131396d`
 
+
+## Round 29 — buff-gh-ux
+
+**Gap:** Weak slash/install story for remix
+
+**Addition:** Use example + pack_wire
+
+**Commit:** `52a5911`
+

@@ -9,3 +9,5 @@
 | Metrics | (fill) | (fill) |
 
 Update this table as forge themes land.
+
+| Done authority | self | defer to verify-gate |
