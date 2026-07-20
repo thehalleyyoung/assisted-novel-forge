@@ -91,3 +91,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `44fae70`
 
+
+## Round 11 — buff-arch-ux
+
+**Gap:** Name collision with software architecture
+
+**Addition:** Non-triggers for software-arch + slash Use example
+
+**Commit:** `cd7bc55`
+
