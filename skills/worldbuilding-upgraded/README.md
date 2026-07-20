@@ -19,3 +19,9 @@ bash install.sh worldbuilding-upgraded
 ## Upstream
 
 See `UPSTREAM.md`. Upgrade plan: `UPGRADE_PLAN.md`. Forge log: `USEFULNESS_FORGE.md`.
+
+## Use (after install)
+
+```text
+/worldbuilding-upgraded expand canon for PROJECT
+```

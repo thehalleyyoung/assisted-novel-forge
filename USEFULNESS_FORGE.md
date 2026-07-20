@@ -163,3 +163,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `10ab739`
 
+
+## Round 19 — buff-world-export
+
+**Gap:** World notes not in pack/ledger
+
+**Addition:** export_world_canon.py
+
+**Commit:** `7738486`
+
