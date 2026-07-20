@@ -161,3 +161,7 @@ Output: `[书名].epub`
 - `scripts/create_epub.py` - EPUB generator
 - `references/personas.md` - Character templates by setting
 - `references/poetry_pairs.md` - Poetry and lyrics pairings
+
+## Remix — pack first
+Before RPG phases, run `python3 scripts/init_novel_pack.py --root PROJECT --mode autonomous|assisted`.
+**Done rule:** never claim novel complete without package `verify_gate.py` PASS.
