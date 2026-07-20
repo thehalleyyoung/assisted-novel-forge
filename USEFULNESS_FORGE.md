@@ -415,3 +415,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `9681838`
 
+
+## Round 47 — super-runner
+
+**Gap:** Superskill was prose-only orchestration
+
+**Addition:** run_pipeline.py wires router→pack→phase exporters→verify
+
+**Commit:** `9292bad`
+

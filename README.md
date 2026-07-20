@@ -29,3 +29,10 @@ python3 scripts/verify_gate.py --root ./novel_project --json
 ## Upstream
 
 See `UPSTREAM.md` and `REMIX_PLAN.md`.
+
+## Pipeline smoke
+
+```bash
+python3 evals/run_pipeline_smoke.py
+python3 evals/run_evals.py
+```
