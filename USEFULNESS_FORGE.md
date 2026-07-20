@@ -343,3 +343,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `1f9b9bd`
 
+
+## Round 39 — sub-cont-port
+
+**Gap:** Continuity fragmented per skill
+
+**Addition:** Standalone continuity_bridge.py subskill
+
+**Commit:** `0750422`
+
