@@ -9,3 +9,5 @@
 | Metrics | (fill) | (fill) |
 
 Update this table as forge themes land.
+
+| Chapter verify script | none | chapter_verify.py |

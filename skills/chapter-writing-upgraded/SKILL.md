@@ -121,3 +121,7 @@ Use the Story CLI when it is available. If `story` is not installed but the `sto
 - **`references/chapter-template.md`** - Frontmatter and structure template for chapter files
 - **`references/scene-template.md`** - Machine-readable continuity template for scenes
 - **`references/writing-guidelines.md`** - Prose craft guidance: show-don't-tell, POV, dialogue, pacing, scene structure, continuity
+
+## Remix upgrade — verify before done
+After writing a chapter, run `python3 scripts/chapter_verify.py --root PROJECT --chapter PATH --json` and refuse done on FAIL.
+Wire into assisted-novel-forge handoff-pack (`chapters/`, `continuity/ledger.json`).
