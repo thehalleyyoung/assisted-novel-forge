@@ -199,3 +199,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `b094984`
 
+
+## Round 23 — buff-wp-nont
+
+**Gap:** Generic 'principles' over-trigger
+
+**Addition:** Non-triggers + slash Use
+
+**Commit:** `01f8585`
+
