@@ -100,3 +100,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `cd7bc55`
 
+
+## Round 12 — buff-arch-validate
+
+**Gap:** No check that architecture.md exists before chapters
+
+**Addition:** validate_arch_present.py gate for superskill phase order
+
+**Commit:** `8315dea`
+

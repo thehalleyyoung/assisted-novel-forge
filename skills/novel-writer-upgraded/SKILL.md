@@ -256,3 +256,6 @@ Neon lights blurred into halos through the rain. Lin Yuan stood at the edge of t
 
 He turned to see a dark figure emerging from the stairwell.
 ```
+
+## Pack outline
+Exports to `plot/outline.md` for chapter-writing-upgraded consumption.
