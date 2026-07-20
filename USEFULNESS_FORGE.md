@@ -280,3 +280,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `716c83b`
 
+
+## Round 32 — sub-handoff-schema
+
+**Gap:** Schema only implied
+
+**Addition:** schema.md + Use slash
+
+**Commit:** `bc58429`
+
