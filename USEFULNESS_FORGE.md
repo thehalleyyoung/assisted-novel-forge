@@ -109,3 +109,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `8315dea`
 
+
+## Round 13 — buff-nw-outline
+
+**Gap:** EN novel-writer outline not wired to pack
+
+**Addition:** export_outline_to_pack.py
+
+**Commit:** `a1a80d8`
+

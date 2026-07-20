@@ -19,3 +19,9 @@ bash install.sh novel-writer-upgraded
 ## Upstream
 
 See `UPSTREAM.md`. Upgrade plan: `UPGRADE_PLAN.md`. Forge log: `USEFULNESS_FORGE.md`.
+
+## Use (after install)
+
+```text
+/novel-writer-upgraded assisted outline for PROJECT
+```

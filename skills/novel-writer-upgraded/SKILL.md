@@ -259,3 +259,6 @@ He turned to see a dark figure emerging from the stairwell.
 
 ## Pack outline
 Exports to `plot/outline.md` for chapter-writing-upgraded consumption.
+
+## Assisted default
+Prefer this planner in assisted mode (AskUserQuestion-friendly). Autonomous mode may prefer novel-creator-upgraded (router decides).
