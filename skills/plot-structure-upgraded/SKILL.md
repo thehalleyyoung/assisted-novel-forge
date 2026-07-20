@@ -96,3 +96,6 @@ Use the Story CLI when it is available. If `story` is not installed but the `sto
 - **`references/question-template.md`** - Template for continuity questions and mysteries
 - **`references/promise-template.md`** - Template for setup/payoff tracking
 - **`references/structure-models.md`** - Story structure models (three-act, hero's journey, save the cat, kishotenketsu, five-act) with beat sheets
+
+## Export
+`export_plot_index.py` writes plot/_index.md + beats.json for handoff-pack.

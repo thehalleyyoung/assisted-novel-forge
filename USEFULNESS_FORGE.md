@@ -127,3 +127,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `81ff177`
 
+
+## Round 15 — buff-nw-check
+
+**Gap:** No outline existence check
+
+**Addition:** check_outline_exists.py + smoke
+
+**Commit:** `ada9232`
+
