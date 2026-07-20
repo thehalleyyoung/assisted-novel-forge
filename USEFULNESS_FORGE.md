@@ -379,3 +379,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `58be826`
 
+
+## Round 43 — sub-router-port
+
+**Gap:** Wrong-sense installs dominate 'story' search
+
+**Addition:** assist_mode_router.py as first-phase subskill
+
+**Commit:** `f153945`
+
