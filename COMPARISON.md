@@ -11,3 +11,6 @@
 
 | E2E smoke | none | run_pipeline_smoke + evals |
 | Wrong-sense guard | rare | assist_mode_router |
+
+| Band filter | middling 80–8k | **all installs** (25–8200+) |
+| Members | 10 | 41 upgraded dirs |

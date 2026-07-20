@@ -22,6 +22,11 @@ def route(text: str, mode: str | None = None) -> dict:
     elif re.search(r"literary|short story|workshop", low):
         planner = "novel-writer-upgraded"
     else:
+        if re.search(r"short story|deslop|oh-story", low):
+        planner = "story-upgraded"
+    elif re.search(r"inkos|multi-agent novel", low):
+        planner = "inkos-multi-agent-novel-writing-upgraded"
+    else:
         planner = "novel-creator-upgraded" if mode == "autonomous" else "novel-writer-upgraded"
     return {
         "decision": "ROUTE",
@@ -35,6 +40,8 @@ def route(text: str, mode: str | None = None) -> dict:
             planner,
             "chapter-writing-upgraded",
             "creative-writing-craft-upgraded",
+            "better-writing-upgraded",
+            "revision-upgraded",
             "story-review-upgraded",
             "verify-gate",
         ],

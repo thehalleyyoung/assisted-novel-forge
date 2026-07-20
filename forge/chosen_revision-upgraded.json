@@ -1,0 +1,19 @@
+{
+  "id": "jwynia/agent-skills@revision",
+  "installs": 390,
+  "query": "prose revision",
+  "source": "skills_sh",
+  "url": "https://github.com/jwynia/agent-skills",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/jwynia/agent-skills/revision",
+  "stars": 118,
+  "license": null,
+  "pushed_at": "2026-02-24T02:35:14Z",
+  "archived": false,
+  "github_url": "https://github.com/jwynia/agent-skills",
+  "github_description": "",
+  "license_gate": "PASS_UNKNOWN",
+  "license_note": [
+    "license unknown \u2014 proceed with caution; verify UPSTREAM.md attribution"
+  ]
+}

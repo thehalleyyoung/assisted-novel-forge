@@ -1,0 +1,19 @@
+{
+  "id": "tomsawyerhu/chinese-webnovel-skill@webnovel-writing",
+  "installs": 117,
+  "query": "novel writing",
+  "source": "skills_sh",
+  "url": "https://github.com/Tomsawyerhu/Chinese-WebNovel-Skill",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/tomsawyerhu/chinese-webnovel-skill/webnovel-writing",
+  "stars": 506,
+  "license": null,
+  "pushed_at": "2026-05-22T07:51:26Z",
+  "archived": false,
+  "github_url": "https://github.com/Tomsawyerhu/Chinese-WebNovel-Skill",
+  "github_description": "\u4e2d\u6587\u7f51\u6587\u5c0f\u8bf4\u5199\u4f5cskill",
+  "license_gate": "PASS_UNKNOWN",
+  "license_note": [
+    "license unknown \u2014 proceed with caution; verify UPSTREAM.md attribution"
+  ]
+}

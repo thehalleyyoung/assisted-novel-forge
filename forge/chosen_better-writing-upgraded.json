@@ -1,0 +1,15 @@
+{
+  "id": "forjd/better-writing@better-writing",
+  "installs": 158,
+  "url": "https://github.com/forjd/better-writing",
+  "source": "skills_sh",
+  "query": "all-band",
+  "skill_subdir": ".",
+  "stars": 10,
+  "license": "mit",
+  "pushed_at": "2026-07-02T09:21:15Z",
+  "archived": false,
+  "github_url": "https://github.com/forjd/better-writing",
+  "github_description": "An agent skill for prose that sounds clear, specific, and human.",
+  "license_gate": "PASS"
+}

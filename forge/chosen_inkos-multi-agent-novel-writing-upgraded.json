@@ -1,0 +1,19 @@
+{
+  "id": "aradotso/trending-skills@inkos-multi-agent-novel-writing",
+  "installs": 2600,
+  "query": "novel writing",
+  "source": "skills_sh",
+  "url": "https://github.com/Aradotso/trending-skills",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/aradotso/trending-skills/inkos-multi-agent-novel-writing",
+  "stars": 66,
+  "license": null,
+  "pushed_at": "2026-07-09T21:19:42Z",
+  "archived": false,
+  "github_url": "https://github.com/Aradotso/trending-skills",
+  "github_description": "Trending Claude Code skills",
+  "license_gate": "PASS_UNKNOWN",
+  "license_note": [
+    "license unknown \u2014 proceed with caution; verify UPSTREAM.md attribution"
+  ]
+}

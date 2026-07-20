@@ -1,0 +1,15 @@
+{
+  "id": "danjdewhurst/story-skills@story-init",
+  "installs": 100,
+  "url": "https://github.com/danjdewhurst/story-skills",
+  "source": "skills_sh",
+  "query": "all-band",
+  "skill_subdir": ".",
+  "stars": 118,
+  "license": "mit",
+  "pushed_at": "2026-06-11T21:26:53Z",
+  "archived": false,
+  "github_url": "https://github.com/danjdewhurst/story-skills",
+  "github_description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+  "license_gate": "PASS"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "worldwonderer/oh-story-claudecode@story",
+  "installs": 8200,
+  "url": "https://github.com/worldwonderer/oh-story-claudecode",
+  "source": "skills_sh",
+  "query": "all-band",
+  "skill_subdir": ".",
+  "stars": 4377,
+  "license": "mit",
+  "pushed_at": "2026-07-16T16:35:56Z",
+  "archived": false,
+  "github_url": "https://github.com/worldwonderer/oh-story-claudecode",
+  "github_description": "\u7f51\u6587/\u5c0f\u8bf4\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b | An all-in-one skill pack for long- and short-form web fiction, covering trend scouting, story analysis, writing, AI-slop cleanup, and cover generation",
+  "license_gate": "PASS"
+}

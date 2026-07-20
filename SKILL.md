@@ -58,3 +58,47 @@ Chat self-grade is not evidence.
 
 ## Integration smoke
 Before publish/claim ship: `bash scripts/smoke_all.sh`.
+
+## Buffed members (all-band)
+
+- `better-writing-upgraded`
+- `chapter-writing-upgraded`
+- `character-sim-upgraded`
+- `creative-writing-craft-upgraded`
+- `creative-writing-muse-upgraded`
+- `creative-writing-upgraded`
+- `fiction-upgraded`
+- `glossary-reference-upgraded`
+- `inkos-multi-agent-novel-writing-upgraded`
+- `jmsktm-story-upgraded`
+- `novel-creator-upgraded`
+- `novel-outlining-upgraded`
+- `novel-writer-upgraded`
+- `oblique-worldbuilding-upgraded`
+- `oceanswave-creative-writing-upgraded`
+- `oh-story-cover-upgraded`
+- `oh-story-deslop-upgraded`
+- `oh-story-import-upgraded`
+- `oh-story-long-analyze-upgraded`
+- `oh-story-long-scan-upgraded`
+- `oh-story-long-write-upgraded`
+- `oh-story-review-upgraded`
+- `oh-story-setup-upgraded`
+- `oh-story-short-analyze-upgraded`
+- `oh-story-short-scan-upgraded`
+- `oh-story-short-write-upgraded`
+- `plot-structure-upgraded`
+- `prose-upgraded`
+- `revision-upgraded`
+- `story-architecture-upgraded`
+- `story-context-upgraded`
+- `story-init-upgraded`
+- `story-memory-upgraded`
+- `story-review-upgraded`
+- `story-sense-upgraded`
+- `story-upgraded`
+- `webnovel-writing-upgraded`
+- `worldbuilding-upgraded`
+- `writing-issues-upgraded`
+- `writing-principles-upgraded`
+- `writing-staffing-upgraded`

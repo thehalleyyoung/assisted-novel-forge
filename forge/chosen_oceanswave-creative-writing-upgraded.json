@@ -1,0 +1,16 @@
+{
+  "id": "oceanswave/i-know-kung-fu@creative-writing",
+  "installs": 26,
+  "query": "autonomous or assisted creative writing",
+  "source": "skills_sh",
+  "url": "https://github.com/Oceanswave/i-know-kung-fu",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/oceanswave/i-know-kung-fu/creative-writing",
+  "stars": 1,
+  "license": "mit",
+  "pushed_at": "2026-02-25T01:24:01Z",
+  "archived": false,
+  "github_url": "https://github.com/Oceanswave/i-know-kung-fu",
+  "github_description": "A personal collection of agent skills for practical workflows and interesting ideas worth reusing.",
+  "license_gate": "PASS"
+}

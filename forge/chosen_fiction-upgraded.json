@@ -1,0 +1,19 @@
+{
+  "id": "howells/fiction@fiction",
+  "installs": 54,
+  "query": "fiction writing",
+  "source": "skills_sh",
+  "url": "https://github.com/howells/fiction",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/skills.volces.com/story-cog",
+  "stars": 10,
+  "license": null,
+  "pushed_at": "2026-06-21T21:47:03Z",
+  "archived": false,
+  "github_url": "https://github.com/howells/fiction",
+  "github_description": "Claude Code plugin for writing fiction \u2014 chapters, characters, outlines, critique, and editing",
+  "license_gate": "PASS_UNKNOWN",
+  "license_note": [
+    "license unknown \u2014 proceed with caution; verify UPSTREAM.md attribution"
+  ]
+}

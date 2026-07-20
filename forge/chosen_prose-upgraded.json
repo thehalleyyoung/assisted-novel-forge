@@ -1,0 +1,16 @@
+{
+  "id": "simota/agent-skills@prose",
+  "installs": 49,
+  "query": "prose revision",
+  "source": "skills_sh",
+  "url": "https://github.com/simota/agent-skills",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/simota/agent-skills/prose",
+  "stars": 64,
+  "license": "mit",
+  "pushed_at": "2026-07-20T00:35:12Z",
+  "archived": false,
+  "github_url": "https://github.com/simota/agent-skills",
+  "github_description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerund-form descriptions, hub-spoke orchestration via Nexus. Covers development, security, design, testing, FinOps, compliance, observability, AI/ML, and more.",
+  "license_gate": "PASS"
+}

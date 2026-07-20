@@ -1,0 +1,15 @@
+{
+  "id": "haowjy/creative-writing-skills@character-sim",
+  "installs": 200,
+  "url": "https://github.com/haowjy/creative-writing-skills",
+  "source": "skills_sh",
+  "query": "all-band",
+  "skill_subdir": ".",
+  "stars": 337,
+  "license": "apache-2.0",
+  "pushed_at": "2026-07-09T20:16:36Z",
+  "archived": false,
+  "github_url": "https://github.com/haowjy/creative-writing-skills",
+  "github_description": "claude skills focused on creative writing",
+  "license_gate": "PASS"
+}

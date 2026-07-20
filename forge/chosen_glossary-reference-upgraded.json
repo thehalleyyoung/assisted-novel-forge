@@ -1,0 +1,16 @@
+{
+  "id": "bybren-llc/story-systems-template@glossary-reference",
+  "installs": 25,
+  "query": "screenplay writing",
+  "source": "skills_sh",
+  "url": "https://github.com/bybren-llc/story-systems-template",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/bybren-llc/story-systems-template/glossary-reference",
+  "stars": 55,
+  "license": "mit",
+  "pushed_at": "2026-01-22T19:13:26Z",
+  "archived": false,
+  "github_url": "https://github.com/bybren-llc/story-systems-template",
+  "github_description": "Creative project template for screenplays, novels, and film production. Multi-AI harness with upstream sync.",
+  "license_gate": "PASS"
+}

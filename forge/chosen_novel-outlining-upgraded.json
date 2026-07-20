@@ -1,0 +1,19 @@
+{
+  "id": "chen893/--skill@novel-outlining",
+  "installs": 27,
+  "query": "novel outline",
+  "source": "skills_sh",
+  "url": "https://github.com/chen893/--skill",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/chen893/--skill/novel-outlining",
+  "stars": 2,
+  "license": null,
+  "pushed_at": "2026-03-01T14:13:12Z",
+  "archived": false,
+  "github_url": "https://github.com/chen893/--skill",
+  "github_description": "",
+  "license_gate": "PASS_UNKNOWN",
+  "license_note": [
+    "license unknown \u2014 proceed with caution; verify UPSTREAM.md attribution"
+  ]
+}

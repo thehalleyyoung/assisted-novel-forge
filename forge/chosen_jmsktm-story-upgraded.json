@@ -1,0 +1,19 @@
+{
+  "id": "jmsktm/claude-settings@story",
+  "installs": 252,
+  "query": "character development writing",
+  "source": "skills_sh",
+  "url": "https://github.com/jmsktm/claude-settings",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/jmsktm/claude-settings/story-writer",
+  "stars": 7,
+  "license": null,
+  "pushed_at": "2026-01-22T02:18:23Z",
+  "archived": false,
+  "github_url": "https://github.com/jmsktm/claude-settings",
+  "github_description": "",
+  "license_gate": "PASS_UNKNOWN",
+  "license_note": [
+    "license unknown \u2014 proceed with caution; verify UPSTREAM.md attribution"
+  ]
+}
