@@ -14,3 +14,5 @@
 
 | Band filter | middling 80–8k | **all installs** (25–8200+) |
 | Members | 10 | 41 upgraded dirs |
+
+| Anti-AI tells | ad hoc craft | 10-skill ensemble + lexicon gate |

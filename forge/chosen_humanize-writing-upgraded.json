@@ -1,0 +1,16 @@
+{
+  "id": "lguz/humanize-writing-skill@humanize-writing",
+  "installs": 87,
+  "url": "https://github.com/lguz/humanize-writing-skill",
+  "source": "skills_sh",
+  "skill_subdir": ".",
+  "query": "anti-ai-tells",
+  "stars": 18,
+  "license": "mit",
+  "pushed_at": "2026-03-12T18:38:44Z",
+  "archived": false,
+  "github_url": "https://github.com/lguz/humanize-writing-skill",
+  "github_description": "Rewrite AI-generated text to sound human. 3-pass editing system with 36+ banned words, 10 structural patterns, and a quality checklist. Works with any LLM \u2014 Claude, ChatGPT, Gemini, Cursor, Windsurf. Also available as a Claude Code plugin.",
+  "license_gate": "PASS",
+  "installs_approx": 87
+}

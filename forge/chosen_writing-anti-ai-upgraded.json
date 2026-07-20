@@ -1,0 +1,17 @@
+{
+  "id": "galaxy-dawn/claude-scholar@writing-anti-ai",
+  "installs": 430,
+  "query": "anti ai writing tells",
+  "source": "skills_sh",
+  "url": "https://github.com/Galaxy-Dawn/claude-scholar",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/galaxy-dawn/claude-scholar/writing-anti-ai",
+  "stars": 4690,
+  "license": "mit",
+  "pushed_at": "2026-07-17T08:48:10Z",
+  "archived": false,
+  "github_url": "https://github.com/Galaxy-Dawn/claude-scholar",
+  "github_description": "Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CLI, and OpenCode across ideation, coding, experiments, writing, and publication.",
+  "license_gate": "PASS",
+  "installs_approx": 430
+}

@@ -49,6 +49,7 @@ def route(text: str, mode: str | None = None) -> dict:
             "better-writing-upgraded",
             "revision-upgraded",
             "story-review-upgraded",
+            "anti-ai-tells",
             "verify-gate",
         ],
     }

@@ -22,3 +22,6 @@ Compose every license-reachable creative-writing skill we can locate into one as
 
 ## Modes
 assisted | autonomous — router ABSTAIN on wrong-sense.
+
+## Anti-AI-tells merge
+Added 10 humanize/detect/deslop skills + `anti-ai-tells` subskill + `ai_tells_ensemble.py` lexicon gate wired into verify-gate.

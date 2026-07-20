@@ -1,0 +1,9 @@
+{
+  "id": "humanizerai/agent-skills@humanize",
+  "installs": 3200,
+  "installs_approx": 3200,
+  "url": "https://github.com/humanizerai/agent-skills",
+  "github_url": "https://github.com/humanizerai/agent-skills",
+  "license_gate": "PASS",
+  "query": "anti-ai-tells"
+}

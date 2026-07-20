@@ -1,0 +1,21 @@
+{
+  "id": "cowork-os/cowork-os@humanizer",
+  "installs": 268,
+  "query": "remove AI tells writing",
+  "source": "skills_sh",
+  "url": "https://github.com/CoWork-OS/CoWork-OS",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/cowork-os/cowork-os/humanizer",
+  "queries": [
+    "remove AI tells writing",
+    "humanize text skill"
+  ],
+  "stars": 392,
+  "license": "mit",
+  "pushed_at": "2026-07-20T14:22:05Z",
+  "archived": false,
+  "github_url": "https://github.com/CoWork-OS/CoWork-OS",
+  "github_description": "Local-first personal agentic OS and everything app for coding, knowledge work, web design, automations, and artifacts.",
+  "license_gate": "PASS",
+  "installs_approx": 268
+}

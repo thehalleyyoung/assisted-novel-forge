@@ -38,6 +38,16 @@ def check(root: Path, min_chapter_words: int = 800, min_chapters: int = 1) -> di
         except json.JSONDecodeError:
             reasons.append("claims.json invalid")
 
+    # refuse if anti-AI-tells ensemble reported FAIL
+    ait = root/"review/ai_tells_report.json"
+    if ait.exists():
+        try:
+            ar = json.loads(ait.read_text())
+            if ar.get("decision") == "FAIL":
+                reasons.append("ai_tells_report decision=FAIL — run anti-ai-tells ensemble")
+        except json.JSONDecodeError:
+            reasons.append("ai_tells_report.json invalid")
+
     # refuse if REVIEW says blocking issues
     review = root/"review/blocking.json"
     if review.exists():

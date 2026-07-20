@@ -1,0 +1,16 @@
+{
+  "id": "kambleakash0/agent-skills@english-humanizer",
+  "installs": 127,
+  "url": "https://github.com/kambleakash0/agent-skills",
+  "source": "skills_sh",
+  "skill_subdir": ".",
+  "query": "anti-ai-tells",
+  "stars": 7,
+  "license": "mit",
+  "pushed_at": "2026-07-02T06:55:21Z",
+  "archived": false,
+  "github_url": "https://github.com/kambleakash0/agent-skills",
+  "github_description": "A curated collection of custom AgentSkills and token-saving MCP servers for extending the capabilities of AI coding assistants like Claude Code.",
+  "license_gate": "PASS",
+  "installs_approx": 127
+}

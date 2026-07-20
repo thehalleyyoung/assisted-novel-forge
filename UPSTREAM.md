@@ -44,3 +44,17 @@ Install range in discovery: ~25–8200.
 - `oh-story-short-analyze-upgraded`
 - `oh-story-short-scan-upgraded`
 - `oh-story-short-write-upgraded`
+
+## Anti-AI-tells merge (10)
+
+- `humanizerai/agent-skills@humanize` — installs≈3200 — https://github.com/humanizerai/agent-skills
+- `galaxy-dawn/claude-scholar@writing-anti-ai` — installs≈430 — https://github.com/Galaxy-Dawn/claude-scholar
+- `z0gsh1u/oh-my-writing-skill@humanizer-cn` — installs≈612 — https://github.com/z0gSh1u/oh-my-writing-skill
+- `cowork-os/cowork-os@humanizer` — installs≈268 — https://github.com/CoWork-OS/CoWork-OS
+- `mike-coulbourn/claude-vibes@ai-writing-detection` — installs≈300 — https://github.com/mike-coulbourn/claude-vibes
+- `haowjy/creative-writing-skills@prose-critique` — installs≈387 — https://github.com/haowjy/creative-writing-skills
+- `gabelul/slopbuster@slopbuster` — installs≈139 — https://github.com/gabelul/slopbuster
+- `kambleakash0/agent-skills@english-humanizer` — installs≈127 — https://github.com/kambleakash0/agent-skills
+- `lguz/humanize-writing-skill@humanize-writing` — installs≈87 — https://github.com/lguz/humanize-writing-skill
+- `hairyf/skills@writing-humanizer` — installs≈122 — https://github.com/hairyf/skills
+

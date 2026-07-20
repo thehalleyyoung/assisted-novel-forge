@@ -1,0 +1,17 @@
+{
+  "id": "gabelul/slopbuster@slopbuster",
+  "installs": 139,
+  "query": "anti ai writing tells",
+  "source": "skills_sh",
+  "url": "https://github.com/gabelul/slopbuster",
+  "skill_subdir": ".",
+  "skills_sh_url": "https://skills.sh/gabelul/slopbuster/slopbuster",
+  "stars": 26,
+  "license": "mit",
+  "pushed_at": "2026-04-30T00:36:07Z",
+  "archived": false,
+  "github_url": "https://github.com/gabelul/slopbuster",
+  "github_description": "AI text humanizer for prose, code & academic writing. 100+ patterns, two-pass audit, three-tier scoring, voice injection. Claude Code skill. No API calls \u2014 pure local pattern matching. The humanizer that studies how AI actually writes instead of swapping synonyms.",
+  "license_gate": "PASS",
+  "installs_approx": 139
+}

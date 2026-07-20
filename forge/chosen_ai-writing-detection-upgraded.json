@@ -1,0 +1,16 @@
+{
+  "id": "mike-coulbourn/claude-vibes@ai-writing-detection",
+  "installs": 300,
+  "url": "https://github.com/mike-coulbourn/claude-vibes",
+  "source": "skills_sh",
+  "skill_subdir": ".",
+  "query": "anti-ai-tells",
+  "stars": 34,
+  "license": "mit",
+  "pushed_at": "2025-12-21T12:28:11Z",
+  "archived": false,
+  "github_url": "https://github.com/mike-coulbourn/claude-vibes",
+  "github_description": "",
+  "license_gate": "PASS",
+  "installs_approx": 300
+}

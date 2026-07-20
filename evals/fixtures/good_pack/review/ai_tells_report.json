@@ -1,0 +1,30 @@
+{
+  "decision": "PASS",
+  "total_hits": 0,
+  "max_hits": 3,
+  "chapters": [
+    {
+      "chapter": "ch01.md",
+      "n_hits": 0,
+      "hits": []
+    }
+  ],
+  "ensemble_members": [
+    "ai-writing-detection-upgraded",
+    "writing-anti-ai-upgraded",
+    "prose-critique-upgraded",
+    "slopbuster-upgraded",
+    "humanize-upgraded",
+    "humanizer-upgraded",
+    "humanize-writing-upgraded",
+    "english-humanizer-upgraded",
+    "writing-humanizer-upgraded",
+    "humanizer-cn-upgraded"
+  ],
+  "procedure": "On FAIL: run detect \u2192 writing-anti-ai / prose-critique \u2192 humanize/slopbuster/deslop \u2192 re-score until PASS",
+  "also_use": [
+    "better-writing-upgraded",
+    "oh-story-deslop-upgraded",
+    "revision-upgraded"
+  ]
+}

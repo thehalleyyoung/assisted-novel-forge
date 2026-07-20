@@ -1,0 +1,16 @@
+{
+  "id": "z0gsh1u/oh-my-writing-skill@humanizer-cn",
+  "installs": 612,
+  "url": "https://github.com/z0gSh1u/oh-my-writing-skill",
+  "source": "skills_sh",
+  "skill_subdir": ".",
+  "query": "anti-ai-tells",
+  "stars": 28,
+  "license": "mit",
+  "pushed_at": "2026-03-02T12:20:45Z",
+  "archived": false,
+  "github_url": "https://github.com/z0gSh1u/oh-my-writing-skill",
+  "github_description": "\u57fa\u4e8e Claude Agent Skills \u6784\u5efa\u7684\u5185\u5bb9\u521b\u4f5c\u52a9\u624b\uff0c\u652f\u6301\u7528\u6237\u9700\u6c42\u6f84\u6e05\u3001\u6df1\u5ea6\u7814\u7a76\u3001\u914d\u56fe\u3001AI \u75d5\u8ff9\u4f18\u5316\u3001\u591a\u5e73\u53f0\u98ce\u683c\u7b49\u529f\u80fd\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u8d28\u91cf\u6587\u7ae0",
+  "license_gate": "PASS",
+  "installs_approx": 612
+}
