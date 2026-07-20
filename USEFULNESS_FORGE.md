@@ -370,3 +370,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `1ed8519`
 
+
+## Round 42 — sub-cont-assert
+
+**Gap:** Superskill needs exit-code assert
+
+**Addition:** assert_clean.py
+
+**Commit:** `58be826`
+

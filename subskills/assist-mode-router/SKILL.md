@@ -5,3 +5,5 @@ description: Route autonomous vs assisted creative writing; abstain on Storybook
 # assist-mode-router
 `python3 scripts/assist_mode_router.py --text "..." [--mode assisted|autonomous]`
 Returns ROUTE with planner+phases or ABSTAIN.
+
+First call in superskill. ABSTAIN exits 2.
