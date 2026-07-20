@@ -262,3 +262,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `52a5911`
 
+
+## Round 30 — buff-gh-defer
+
+**Gap:** Could still false-done as standalone
+
+**Addition:** COMPARISON defer-done + smoke
+
+**Commit:** `1ac65ba`
+

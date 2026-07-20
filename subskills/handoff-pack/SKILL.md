@@ -5,3 +5,6 @@ description: Materialize and validate fiction project handoff packs for assisted
 # handoff-pack
 Run `python3 scripts/handoff_pack.py init|validate --root PROJECT`.
 Required: brief.json, bible.md, world/, plot/, chapters/, characters/, continuity/ledger.json.
+
+## Commands
+`init` and `validate` — see package scripts (copied here for standalone install).
