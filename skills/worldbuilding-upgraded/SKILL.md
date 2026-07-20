@@ -94,3 +94,6 @@ Use the Story CLI when it is available. If `story` is not installed but the `sto
 
 ## Canon export
 `export_world_canon.py` writes world/ + continuity facts.
+
+## Non-triggers
+Not infrastructure-as-code world modules.

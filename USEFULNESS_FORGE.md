@@ -172,3 +172,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `7738486`
 
+
+## Round 20 — buff-world-check
+
+**Gap:** Canon facts unused by chapters
+
+**Addition:** world_fact_check.py advisory + Use example
+
+**Commit:** `cbca66e`
+
