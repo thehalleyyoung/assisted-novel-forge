@@ -107,3 +107,6 @@ modes for putting prose on the page.
 
 ## Voice contract
 Write `voice_contract.md` into the pack before prose phases.
+
+## Non-triggers
+Not for legal writing principles or compliance style guides.

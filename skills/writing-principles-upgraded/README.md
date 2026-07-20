@@ -19,3 +19,9 @@ bash install.sh writing-principles-upgraded
 ## Upstream
 
 See `UPSTREAM.md`. Upgrade plan: `UPGRADE_PLAN.md`. Forge log: `USEFULNESS_FORGE.md`.
+
+## Use (after install)
+
+```text
+/writing-principles-upgraded set voice contract
+```

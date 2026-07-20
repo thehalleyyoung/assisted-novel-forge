@@ -190,3 +190,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `dc78b01`
 
+
+## Round 22 — buff-wp-voice
+
+**Gap:** Principles not persisted for later phases
+
+**Addition:** write_voice_contract.py
+
+**Commit:** `b094984`
+
