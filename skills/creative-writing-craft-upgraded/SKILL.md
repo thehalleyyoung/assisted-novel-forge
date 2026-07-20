@@ -353,3 +353,6 @@ Choose details that do double duty:
 - `references/story-structures.md` - Alternative structures
 - `references/genre-conventions.md` - Genre expectations
 - `references/revision-checklist.md` - Detailed checklist
+
+## Craft report
+`python3 scripts/craft_pass_report.py --chapter CH --out PROJECT/review/craft_report.json`

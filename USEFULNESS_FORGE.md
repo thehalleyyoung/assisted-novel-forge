@@ -46,3 +46,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `bd3100b`
 
+
+## Round 6 — buff-review-wire
+
+**Gap:** No explicit wire into superskill verify path
+
+**Addition:** Documented remix_wire + non-triggers + smoke stub
+
+**Commit:** `3a3694d`
+
