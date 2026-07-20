@@ -165,3 +165,6 @@ Output: `[书名].epub`
 ## Remix — pack first
 Before RPG phases, run `python3 scripts/init_novel_pack.py --root PROJECT --mode autonomous|assisted`.
 **Done rule:** never claim novel complete without package `verify_gate.py` PASS.
+
+## Non-triggers
+Not for interactive fiction engines unrelated to novel pack; not Storybook.

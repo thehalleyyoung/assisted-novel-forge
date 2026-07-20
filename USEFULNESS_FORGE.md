@@ -226,3 +226,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `98d2567`
 
+
+## Round 26 — buff-nc-checkpoint
+
+**Gap:** No resume checkpoints across long autonomous runs
+
+**Addition:** novel_phase_checkpoint.py + Use example
+
+**Commit:** `b6353a4`
+
