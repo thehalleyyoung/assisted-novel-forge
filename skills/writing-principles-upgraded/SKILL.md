@@ -104,3 +104,6 @@ modes for putting prose on the page.
   deep dives with examples and fix heuristics.
 - [`resources/citations.md`](resources/citations.md): research backing for
   the reader-reward model and documented failure modes.
+
+## Voice contract
+Write `voice_contract.md` into the pack before prose phases.

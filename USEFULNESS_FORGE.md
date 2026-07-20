@@ -181,3 +181,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `cbca66e`
 
+
+## Round 21 — buff-world-nont
+
+**Gap:** Infra 'world' name trap
+
+**Addition:** Non-triggers docs
+
+**Commit:** `dc78b01`
+
