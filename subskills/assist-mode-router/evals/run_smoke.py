@@ -2,7 +2,9 @@
 import json, subprocess, sys
 from pathlib import Path
 s=Path(__file__).resolve().parents[1]/"scripts/assist_mode_router.py"
-ab=json.loads(subprocess.check_output([sys.executable,str(s),"--text","add Storybook story for Button"],text=True))
-ok=json.loads(subprocess.check_output([sys.executable,str(s),"--text","assisted novel about a lighthouse","--mode","assisted"],text=True))
-assert ab["decision"]=="ABSTAIN" and ok["decision"]=="ROUTE"
+ab=subprocess.run([sys.executable,str(s),"--text","add Storybook story for Button"],capture_output=True,text=True)
+ok=subprocess.run([sys.executable,str(s),"--text","assisted novel about a lighthouse","--mode","assisted"],capture_output=True,text=True)
+abj=json.loads(ab.stdout); okj=json.loads(ok.stdout)
+assert abj["decision"]=="ABSTAIN" and ab.returncode==2
+assert okj["decision"]=="ROUTE" and ok.returncode==0
 print(json.dumps({"decision":"PASS"}))

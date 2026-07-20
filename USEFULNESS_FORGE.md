@@ -444,3 +444,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 ## Integration
 Round 50 wires pack+verify+router+continuity smokes into smoke_all.sh.
+
+## Round 50 — super-integrate
+
+**Gap:** Themes not exercised on one path
+
+**Addition:** smoke_all.sh runs pack/verify/pipeline/continuity/router smokes
+
+**Commit:** `108e5c9`
+
