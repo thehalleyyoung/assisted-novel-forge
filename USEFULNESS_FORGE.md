@@ -37,3 +37,12 @@ Remix forge for assisted-novel-forge (50 rounds).
 
 **Commit:** `85153b7`
 
+
+## Round 5 — buff-review-claims
+
+**Gap:** Critique findings evaporated between turns
+
+**Addition:** Added review_to_claims.py continuity claims export + Use slash example
+
+**Commit:** `bd3100b`
+

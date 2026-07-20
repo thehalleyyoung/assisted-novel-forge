@@ -45,3 +45,6 @@ When review incorporates reader-sim data:
 
 ## Remix — blocking gate
 Write `review/blocking.json` via `scripts/review_blocking.py`. Superskill verify-gate fails while blocking=true.
+
+## Non-triggers
+Not for CI log review or code PR review.
