@@ -1,38 +1,30 @@
 ---
 name: anti-ai-tells
 description: >
-  Ensemble subskill that runs anti-AI-tell / humanize members (detect, scrub, deslop,
-  humanize) on novel pack chapters before verify-gate. Use with /assisted-novel-forge
-  or /anti-ai-tells on a project root.
+  Voice-bound, adversarial anti-AI-tells lane for assisted-novel-forge. Detect and
+  scrub with different skill families; never humanize away voice_contract. Prefer
+  /forge-composer to decide *whether* and *which* members to run.
 ---
 
 # anti-ai-tells
 
-## Members (merged)
+## Superadditive protocol (not "run all 10")
 
-1. `ai-writing-detection-upgraded` — detect
-2. `writing-anti-ai-upgraded` — anti-AI writing protocol
-3. `prose-critique-upgraded` — fiction antipatterns
-4. `slopbuster-upgraded` — slop bust
-5. `humanize-upgraded` — humanize
-6. `humanizer-upgraded` — humanizer
-7. `humanize-writing-upgraded` — humanize writing
-8. `english-humanizer-upgraded` — English humanizer
-9. `writing-humanizer-upgraded` — writing humanizer
-10. `humanizer-cn-upgraded` — CN humanizer (when brief language=zh)
+1. `ai_tells_ensemble.py --voice-aware` → families + adversarial_pair
+2. Run **only** `adversarial_pair.detect` then `adversarial_pair.scrub`
+3. Re-score with a *different* detector than the scrubber
+4. `compose.py --write` so pressures update the whole forge
 
-Also coordinates existing pack members: `better-writing-upgraded`, `oh-story-deslop-upgraded`, `revision-upgraded`.
+The 10 upgraded members are a *library*; the ensemble + forge-composer pick a pair.
 
-## Procedure
+## Members library
 
-```bash
-python3 scripts/ai_tells_ensemble.py --root PROJECT [--lang en|zh] --json
-```
+detect: ai-writing-detection, writing-anti-ai, prose-critique  
+scrub: slopbuster, oh-story-deslop, humanize*, writing-humanizer, better-writing  
+zh: humanizer-cn
 
-Writes `review/ai_tells_report.json`. If `decision!=PASS`, superskill must rewrite and re-run — do not claim done.
-
-## Use (after install)
+## Use
 
 ```text
-/anti-ai-tells scrub PROJECT chapters until tells below threshold
+/anti-ai-tells adversarial scrub on PROJECT under voice_contract
 ```

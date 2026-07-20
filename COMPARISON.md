@@ -16,3 +16,7 @@
 | Members | 10 | 41 upgraded dirs |
 
 | Anti-AI tells | ad hoc craft | 10-skill ensemble + lexicon gate |
+
+| Composition | Linear skill list | Pressure-driven compose + adversarial pairs + voice coupling |
+| Done metric | Member self-grade | compound_pressure + verify_gate |
+| Anti-AI tells | Run all 10 | detect≠scrub pair chosen by tell family |

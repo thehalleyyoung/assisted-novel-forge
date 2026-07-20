@@ -25,3 +25,6 @@ assisted | autonomous — router ABSTAIN on wrong-sense.
 
 ## Anti-AI-tells merge
 Added 10 humanize/detect/deslop skills + `anti-ai-tells` subskill + `ai_tells_ensemble.py` lexicon gate wired into verify-gate.
+
+## Superadditive composition layer
+Added `forge_state` / `compose` / `forge_loop` / `forge-composer` so fiction + anti-AI-tells libraries interfere constructively instead of concatenating.

@@ -1,0 +1,50 @@
+{
+  "schema": "assisted-novel-forge/forge_state",
+  "version": 1,
+  "updated_at": "2026-07-20T21:10:12Z",
+  "mode": "assisted",
+  "lang": "en",
+  "voice": {
+    "contract_path": "voice_contract.md",
+    "fingerprint": {},
+    "constraints": [
+      "concrete sensory detail; short clauses under stress; no corporate-abstract fillers"
+    ]
+  },
+  "pressures": {
+    "continuity_dirty": 0.0,
+    "beat_gaps": 0.0,
+    "ai_tells": 0.0,
+    "review_blocking": 0.0,
+    "craft_rewrite": 0.0,
+    "thin_prose": 0.0,
+    "voice_drift": 0.0
+  },
+  "signals": {
+    "tell_hits": [],
+    "tell_families": {},
+    "open_beats": [],
+    "contradictions": [],
+    "revision_targets": [],
+    "detector_scrubber_pairs": [
+      {
+        "detect": "ai-writing-detection-upgraded",
+        "scrub": "slopbuster-upgraded",
+        "dominant_family": "connective_slop"
+      }
+    ]
+  },
+  "loop": {
+    "iteration": 0,
+    "history": [],
+    "max_iterations": 8
+  },
+  "prescription": {
+    "lanes": [],
+    "members": [],
+    "rationale": [],
+    "detector_scrubber_pairs": [],
+    "compound_pressure": 0.0,
+    "budget": 5
+  }
+}

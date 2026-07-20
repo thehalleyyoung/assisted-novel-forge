@@ -1,11 +1,11 @@
 # assisted-novel-forge
 
-Remix of 10 middling creative-writing skills into one **autonomous or assisted** novel pipeline with shared handoff packs and an independent verify gate.
+Superadditive remix: all-band fiction skills + anti-AI-tells library, composed through shared pressures — not a megaphone checklist.
 
 ## Install
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/thehalleyyoung/assisted-novel-forge
 cd assisted-novel-forge
 bash install.sh assisted-novel-forge
 ```
@@ -13,26 +13,17 @@ bash install.sh assisted-novel-forge
 ## Use (after install)
 
 ```text
-/assisted-novel-forge assisted: write a literary novel about a lighthouse keeper who finds a door that shouldn't exist
-```
-
-```text
-/assisted-novel-forge autonomous --chapters 12 --genre mystery: the floating market heist
+/assisted-novel-forge assisted: lighthouse door literary novel
+/forge-composer diagnose ./novel_project
+/anti-ai-tells adversarial scrub on ./novel_project under voice_contract
 ```
 
 ```bash
-python3 scripts/assist_mode_router.py --text "write my novel" --mode assisted
-python3 scripts/handoff_pack.py init --root ./novel_project --title "Lighthouse" --mode assisted
+python3 scripts/compose.py --root ./novel_project --write
+python3 scripts/forge_loop.py --root ./novel_project --dry
 python3 scripts/verify_gate.py --root ./novel_project --json
 ```
 
 ## Upstream
 
-See `UPSTREAM.md` and `REMIX_PLAN.md`.
-
-## Pipeline smoke
-
-```bash
-python3 evals/run_pipeline_smoke.py
-python3 evals/run_evals.py
-```
+See `UPSTREAM.md`, `REMIX_PLAN.md`, `references/emergence.md`.

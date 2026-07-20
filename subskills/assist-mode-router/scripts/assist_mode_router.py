@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Route autonomous vs assisted creative writing; reject wrong-sense intents."""
+"""Route into the composition loop — not a 50-skill parade."""
 from __future__ import annotations
 import argparse, json, re
 
@@ -22,40 +22,46 @@ def route(text: str, mode: str | None = None) -> dict:
         if re.search(r"autonomous|just write|full novel without asking", low)
         else "assisted"
     )
-    if re.search(r"deslop|oh-story", low):
+    if re.search(r"deslop|oh-story|short story", low):
         planner = "story-upgraded"
     elif re.search(r"inkos|multi-agent novel", low):
         planner = "inkos-multi-agent-novel-writing-upgraded"
     elif re.search(r"webnovel|xianxia|穿越", low):
         planner = "novel-creator-upgraded"
-    elif re.search(r"short story", low):
-        planner = "story-upgraded"
     elif re.search(r"literary|workshop", low):
         planner = "novel-writer-upgraded"
     else:
         planner = "novel-creator-upgraded" if mode == "autonomous" else "novel-writer-upgraded"
+
     return {
         "decision": "ROUTE",
         "mode": mode,
         "planner": planner,
+        "composition": {
+            "engine": "forge-composer",
+            "loop": ["handoff-pack", "forge_state.init", "seed lanes", "compose.diagnose", "forge_loop.brief", "prescribed members only", "ai_tells.adversarial", "verify_gate.compound"],
+            "seed_lanes": [
+                "writing-principles-upgraded",
+                "worldbuilding-upgraded",
+                "plot-structure-upgraded",
+                "story-architecture-upgraded",
+                planner,
+                "chapter-writing-upgraded",
+            ],
+            "rule": "After seed, do NOT walk the full marketplace — compose.py picks ≤budget members from pressures",
+        },
         "phases": [
-            "writing-principles-upgraded",
-            "worldbuilding-upgraded",
-            "plot-structure-upgraded",
-            "story-architecture-upgraded",
-            planner,
-            "chapter-writing-upgraded",
-            "creative-writing-craft-upgraded",
-            "better-writing-upgraded",
-            "revision-upgraded",
-            "story-review-upgraded",
+            "assist-mode-router",
+            "handoff-pack",
+            "forge-composer",
+            "prescribed-members",
             "anti-ai-tells",
             "verify-gate",
         ],
     }
 
 
-def main():
+def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--text", required=True)
     ap.add_argument("--mode", choices=["assisted", "autonomous"], default=None)

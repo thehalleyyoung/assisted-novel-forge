@@ -1,0 +1,147 @@
+{
+  "schema": "assisted-novel-forge/forge_state",
+  "version": 1,
+  "updated_at": "2026-07-20T21:10:12Z",
+  "mode": "assisted",
+  "lang": "en",
+  "voice": {
+    "contract_path": "voice_contract.md",
+    "fingerprint": {},
+    "constraints": [
+      "concrete sensory detail; short clauses under stress; no corporate-abstract fillers"
+    ]
+  },
+  "pressures": {
+    "continuity_dirty": 0.0,
+    "beat_gaps": 0.0,
+    "ai_tells": 0.875,
+    "review_blocking": 0.0,
+    "craft_rewrite": 0.0,
+    "thin_prose": 0.0,
+    "voice_drift": 0.0
+  },
+  "signals": {
+    "tell_hits": [
+      {
+        "pattern": "\\bmoreover\\b",
+        "family": "connective_slop",
+        "span": [
+          4499,
+          4507
+        ],
+        "match": "moreover",
+        "chapter": "ch01.md"
+      },
+      {
+        "pattern": "\\btapestry\\b",
+        "family": "purple_metaphor",
+        "span": [
+          4513,
+          4521
+        ],
+        "match": "tapestry",
+        "chapter": "ch01.md"
+      },
+      {
+        "pattern": "\\bdelve\\b",
+        "family": "corporate_abstract",
+        "span": [
+          4539,
+          4544
+        ],
+        "match": "delve",
+        "chapter": "ch01.md"
+      },
+      {
+        "pattern": "\\blandscape of\\b",
+        "family": "purple_metaphor",
+        "span": [
+          4561,
+          4573
+        ],
+        "match": "landscape of",
+        "chapter": "ch01.md"
+      },
+      {
+        "pattern": "\\brobust\\b",
+        "family": "corporate_abstract",
+        "span": [
+          4574,
+          4580
+        ],
+        "match": "robust",
+        "chapter": "ch01.md"
+      },
+      {
+        "pattern": "\\bseamless\\b",
+        "family": "corporate_abstract",
+        "span": [
+          4552,
+          4560
+        ],
+        "match": "seamless",
+        "chapter": "ch01.md"
+      },
+      {
+        "pattern": "\\ba testament to\\b",
+        "family": "corporate_abstract",
+        "span": [
+          4626,
+          4640
+        ],
+        "match": "a testament to",
+        "chapter": "ch01.md"
+      }
+    ],
+    "tell_families": {
+      "\\bmoreover\\b": 1,
+      "\\btapestry\\b": 1,
+      "\\bdelve\\b": 1,
+      "\\blandscape of\\b": 1,
+      "\\brobust\\b": 1,
+      "\\bseamless\\b": 1,
+      "\\ba testament to\\b": 1
+    },
+    "open_beats": [],
+    "contradictions": [],
+    "revision_targets": [],
+    "detector_scrubber_pairs": [
+      {
+        "detect": "ai-writing-detection-upgraded",
+        "scrub": "humanize-writing-upgraded",
+        "voice_constraints": [
+          "concrete sensory detail; short clauses under stress; no corporate-abstract fillers"
+        ]
+      }
+    ]
+  },
+  "loop": {
+    "iteration": 0,
+    "history": [],
+    "max_iterations": 8
+  },
+  "prescription": {
+    "lanes": [
+      "anti-ai-tells"
+    ],
+    "members": [
+      "ai-writing-detection-upgraded",
+      "humanize-writing-upgraded",
+      "anti-ai-tells"
+    ],
+    "rationale": [
+      "ai_tells=0.88: adversarial pair ai-writing-detection-upgraded \u2192 humanize-writing-upgraded under voice constraints (not detect=scrub)"
+    ],
+    "detector_scrubber_pairs": [
+      {
+        "detect": "ai-writing-detection-upgraded",
+        "scrub": "humanize-writing-upgraded",
+        "voice_constraints": [
+          "concrete sensory detail; short clauses under stress; no corporate-abstract fillers"
+        ]
+      }
+    ],
+    "compound_pressure": 1.2249999999999999,
+    "budget": 5
+  }
+}
